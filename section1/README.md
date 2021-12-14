@@ -1,6 +1,6 @@
 # Section 1: Super Learners
 
-Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of pre-work involves reading (anything required will be linked here, and free), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
+Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the longest and most time intensive. This section of pre-work involves reading (both from this document as well as the 📒John Duckett book), 👩‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
 
 - [Vocabulary](#Vocabulary)
 - [Part A: Super Learner Habits](#Part-A-Super-Learner-Habits)
@@ -149,15 +149,15 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 1. Check off the items below as you complete the steps you just read for each lesson. ***Remember to create a file containing your work for each lesson!***
 
-    - [ ] [A Good First Program](https://learnrubythehardway.org/book/ex1.html)
+    - [x] [A Good First Program](https://learnrubythehardway.org/book/ex1.html)
 
-    - [ ] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
+    - [x] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
 
-    - [ ] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
+    - [x] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
 
-    - [ ] [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
+    - [x] [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
 
-    - [ ] [Strings](https://learnrubythehardway.org/book/ex5.html)
+    - [x] [Strings](https://learnrubythehardway.org/book/ex5.html)
 
     - [ ] [More Strings](https://learnrubythehardway.org/book/ex6.html)
 
@@ -271,3 +271,4 @@ You should now be able to log in to GitHub, navigate to your remote prework repo
 - [Part C: Ruby Foundations](#Part-C-Ruby-Foundations)
 
 🚀 [Go to Section 2](../section2)
+# test2
