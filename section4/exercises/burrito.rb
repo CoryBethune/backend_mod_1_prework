@@ -30,8 +30,7 @@ class Burrito
   def change_protein(new_protein)
     @protein = new_protein
   end
-
-
+  
 end
 
 dinner = Burrito.new("Beans", "Rice", ["cheese", "salsa", "guacamole"])

@@ -20,14 +20,14 @@ print_name("Albus Dumbledore")
 # Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
 
-def sum(num1=1, num2=2) # default parameters
+def sum(num1 = 1, num2 = 2) # default parameters experiment
   puts "The sum of #{num1} and #{num2} is #{num1 + num2}."
   return num1 + num2
 end
 
 sum(10, 5)
 sum(100, 99)
-sum()
+sum() #default parameters allows this to run
 sum
 sum(20)
 

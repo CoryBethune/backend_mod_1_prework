@@ -20,13 +20,13 @@ p d
 
 # Write code that adds 2 to the `students` variable and
 # prints the result:
-students = 22
-students = students + 2
+students = 0
+students += 2
 p students
 
 # Write code that subracts 2 from the `students` variable and
 # prints the result:
-students = students - 2
+students -= 2
 p students
 
 
@@ -37,6 +37,10 @@ p students
 first_name = "Cory"
 is_hungry = true
 number_of_pets = 0
+
+p first_name
+p is_hungry
+p number_of_pets
 
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?

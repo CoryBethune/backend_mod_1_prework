@@ -22,7 +22,7 @@ class Dog
 
   def play
     @hungry = true
-    puts @hungry
+    puts "I'm so hungry after all that playing! I mean 'Woof'."
   end
 
 
